@@ -20,7 +20,7 @@
 
 ## Note <a name="introduction"></a>
 
-I've created this with the initial intention to help supplement my own learning. Will have a condensed version (like a cheat-sheet) and a more in-depth version.
+I've created this with the initial intention to help supplement my own learning. 
 
 This reference includes **some** of the most commonly
  used methods and properties for the
@@ -28,7 +28,8 @@ This reference includes **some** of the most commonly
  
  Future updates will include ***more*** data types, methods, and properties. 
 
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ☆ [Ultimate Cheatsheet](/str-arr-obj.md)
+
 
 Below is a list of what will be covered.
 
