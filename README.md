@@ -50,7 +50,7 @@ let message = 'stay present and create';
 
 - [`charAt()`](/string/str-char-at.md)
 - [`charCodeAt()`](/string/str-char-code.md)
-- `concat()`
+- [`concat()`](/string/str-concat.md)
 - `endsWith`
 - `fromCharCode()`
 - `includes()`
@@ -128,7 +128,7 @@ let trainee = {
 
 #### Properties <a name="oproperties"></a>
 
-- `constructor `
+- `constructor`
 
 #### Methods <a name="omethods"></a>
 
