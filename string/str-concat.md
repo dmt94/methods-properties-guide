@@ -28,7 +28,7 @@ ___
 
 #### Parameters
 
-One ore more `string` values
+One or more `string` values
 
 ```
 firstStr.charCodeAt(secStr, thirdStr, ...nStr);
