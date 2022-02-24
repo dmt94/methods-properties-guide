@@ -2,6 +2,8 @@
 
 ---
 
+*:･ﾟ✧ My Study Guide *:･ﾟ✧
+
 # Table of contents
 
 (୨୧•͈ᴗ•͈)◞ ♡
