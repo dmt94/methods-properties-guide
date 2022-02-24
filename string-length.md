@@ -4,7 +4,7 @@
 
 ___
 
-##### Description and Return Value:
+#### Description and Return Value:
 
 The `length` property of a string will return a number that represents the length of the string, including whitespace characters. The `length` property will always return one number higher than the final index of the string.
 
@@ -17,7 +17,7 @@ console.log(emptyStr);  // 0
 
 ___
 
-##### Example:
+#### Example:
 
 ```
 let strOne = 'orange';
@@ -39,7 +39,7 @@ console.log(newlineStr.length);     // 1
 
 ___
 
-##### Possible Uses:
+#### Possible Uses:
 
 Finding the last index of a string:
 
