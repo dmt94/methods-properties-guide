@@ -48,7 +48,7 @@ let message = 'stay present and create';
 
 ☆ Go to [String Methods](/string/string-methods.md)
 
-- `charAt()`
+- [`charAt()`](/string/str-char-at.md)
 - `charCodeAt()`
 - `concat()`
 - `endsWith`
