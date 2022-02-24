@@ -49,7 +49,7 @@ let message = 'stay present and create';
 ☆ Go to [String Methods](/string/string-methods.md)
 
 - [`charAt()`](/string/str-char-at.md)
-- `charCodeAt()`
+- [`charCodeAt()`](/string/str-char-code.md)
 - `concat()`
 - `endsWith`
 - `fromCharCode()`
