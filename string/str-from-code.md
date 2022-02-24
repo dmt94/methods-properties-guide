@@ -40,6 +40,7 @@ ___
 
 [`String.fromCharCode()`](/string/str-from-char.md)
 <br>
+
 ***(MDN Definition)***
 
 **String.fromCharCode( )** :
