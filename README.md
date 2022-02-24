@@ -54,26 +54,23 @@ let message = 'stay present and create';
 - [`endsWith`](/string/str-ends-with.md)
 - [`String.fromCharCode()`](/string/str-char-code.md)
 - [`String.fromCodePoint()`](/string/str-from-code.md)
-- `includes()`
-- `indexOf()`
-- `match()`
-- `matchAll()`
-- `repeat()`
-- `replace()`
-- `replaceAll()`
-- `search()`
-- `slice()`
-- `split()`
-- `startsWith()`
-- `substring()`
+- [`includes()`](/string/str-includes.md) 
+- [`indexOf()`](/string/str-index-of.md) 
+- [`repeat()`](/string/str-repeat.md) 
+- `replace()` 
+- `replaceAll()` 
+- `slice()` 
+- `split()` *
+- `startsWith()` 
+- `substring()` 
 - `startsWith()`
 - `toLowerCase()`
 - `toUpperCase()`
-- `toString()`
-- `trim()`
+- `toString()` 
+- `trim()` 
 - `trimEnd()`
 - `trimStart()`
-- `valueOf()`
+- `valueOf()` 
 
 ## Arrays <a name="arrays"></a>
 
