@@ -51,7 +51,7 @@ let message = 'stay present and create';
 - [`charAt()`](/string/str-char-at.md)
 - [`charCodeAt()`](/string/str-char-code.md)
 - [`concat()`](/string/str-concat.md)
-- `endsWith`
+- [`endsWith`](/string/str-ends-with.md)
 - `fromCharCode()`
 - `includes()`
 - `indexOf()`
