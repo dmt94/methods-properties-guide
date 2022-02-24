@@ -42,11 +42,11 @@ let message = 'stay present and create';
 
 #### Properties <a name="sproperties"></a>
 
-- [`length`](/string-length.md)
+- [`length`](/string/string-length.md)
 
 #### Methods <a name="smethods"></a>
 
-☆ Go to [String Methods](/string-methods.md)
+☆ Go to [String Methods](/string/string-methods.md)
 
 - `charAt()`
 - `charCodeAt()`
@@ -86,7 +86,7 @@ let faveNums = [11, 100, 22, 8, 27];
 
 #### Methods <a name="amethods"></a>
 
-☆ Go to [Array Methods](/array-methods.md)
+☆ Go to [Array Methods](/array/array-methods.md)
 
 - `Array.isArray()`
 - `Array.of()`
@@ -132,7 +132,7 @@ let trainee = {
 
 #### Methods <a name="omethods"></a>
 
-☆ Go to [Object Methods](/object-methods.md)
+☆ Go to [Object Methods](/object/object-methods.md)
 
 - `Object.assign()`
 - `Object.create()`

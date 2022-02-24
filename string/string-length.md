@@ -4,6 +4,12 @@
 
 ___
 
+#### Also a property of:
+
+`Array`
+
+---
+
 #### Description and Return Value:
 
 The `length` property of a string will return a number that represents the length of the string, including whitespace characters. The `length` property will always return one number higher than the final index of the string.
