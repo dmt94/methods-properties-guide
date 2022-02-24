@@ -34,15 +34,18 @@ Below is a list of what will be covered.
 
 ## Strings <a name="strings"></a>
 
+
 ```
 let message = 'stay present and create';
 ```
 
 #### Properties <a name="sproperties"></a>
 
-- `length`
+- [`length`](/string-length.md);
 
 #### Methods <a name="smethods"></a>
+
+Go to [Strings Methods](/string-methods.md)
 
 - `charAt()`
 - `charCodeAt()`
