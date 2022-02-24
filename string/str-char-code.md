@@ -24,7 +24,7 @@ console.log('ABC'.charCodeAt('abc')); // 65 , argument defaults to 0
 console.log('ABC'.charCodeAt(0));     // 65 
 
 ```
-`The character 'A' corresponds to UTF-16 code 65`
+The character `A` corresponds to UTF-16 code `65`
 
 ___
 
@@ -43,4 +43,4 @@ let str = 'language';
 
 console.log(str.charCodeAt(4)) // 117
 ```
-`The character 'u' corresponds to UTF-16 code 117`
+The character `u` corresponds to UTF-16 code `117`
