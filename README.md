@@ -41,7 +41,7 @@ let message = 'stay present and create';
 
 #### Properties <a name="sproperties"></a>
 
-- [`length`](/string-length.md);
+- [`length`](/string-length.md)
 
 #### Methods <a name="smethods"></a>
 
