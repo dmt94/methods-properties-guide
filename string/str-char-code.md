@@ -8,7 +8,7 @@ ___
 
 The `chatCodeAt()` method will return an integer between `0` and `65535`, which represents the unique `UTF-16 code unit` of the character that matches the index given in its argument.
 
-`str.charCodeAt(index)`
+`str.charCodeAt(index);`
 
 If the index given is out of range, `charCodeAt()` will return `NaN`:
 
@@ -41,6 +41,6 @@ ___
 ```
 let str = 'language';
 
-console.log(str.charCodeAt(4)) // 117
+console.log(str.charCodeAt(4)); // 117
 ```
 The character `u` corresponds to UTF-16 code `117`
