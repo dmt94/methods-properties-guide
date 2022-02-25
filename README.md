@@ -58,12 +58,12 @@ let message = 'stay present and create';
 - [`indexOf()`](/string/str-index-of.md) 
 - [`repeat()`](/string/str-repeat.md) 
 - [`replace()`](/string/str-replace.md) 
-- `replaceAll()` 
-- `slice()` 
-- `split()` *
-- `startsWith()` 
-- `substring()` 
-- `startsWith()`
+- [`replaceAll()`](/string/str-replace-all.md) 
+- [`slice()`](/string/str-slice.md) 
+- [`split()`](/string/str-split.md) 
+- [`startsWith()`](/string/str-starts-with.md)
+- [`substring()`](/string/substring.md) 
+- `lastIndexOf()`
 - `toLowerCase()`
 - `toUpperCase()`
 - `toString()` 
