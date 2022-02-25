@@ -25,10 +25,16 @@ ___
 2. `OPTIONAL: indexEnd`
 - index of the first character to **exclude** from the returned substring
 
+    <br>
+
     - IF `indexEnd` is omitted, method extracts characters to the end of the string
+
     <br>
+
     - IF `indexStart = indexEnd`, method returns an `empty string ''`
+
     <br>
+
     - IF `indexStart > indexEnd`, method will return a string where it appears as if its argument values are 'swapped': 
 
     ```
