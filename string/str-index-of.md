@@ -11,9 +11,9 @@ The `indexOf()` method searches its calling string for the specified string in i
 If string is not found, the return value is `-1`
 
 
-`strCaller.includes(strFind);`
+`strCaller.indexof(strFind);`
 
-`includes()` is **case sensitive**
+`indexOf()` is **case sensitive**
 
 ___
 
@@ -33,9 +33,9 @@ ___
 
 
 
-`strCaller.includes(strFind);`
+`strCaller.indexOf(strFind);`
 
-`strCaller.includes(strFind, position);`
+`strCaller.indexOf(strFind, position);`
 
 ___
 

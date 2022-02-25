@@ -1,6 +1,6 @@
 ### String 
 
-`chatCodeAt()` : method
+`charCodeAt()` : method
 
 ___
 
