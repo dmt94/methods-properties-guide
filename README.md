@@ -57,7 +57,7 @@ let message = 'stay present and create';
 - [`includes()`](/string/str-includes.md) 
 - [`indexOf()`](/string/str-index-of.md) 
 - [`repeat()`](/string/str-repeat.md) 
-- `replace()` 
+- [`replace()`](/string/str-replace.md) 
 - `replaceAll()` 
 - `slice()` 
 - `split()` *
