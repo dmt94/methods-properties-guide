@@ -81,5 +81,5 @@ console.log(word.lastIndexOf('', 9));              // 9
 
 <br>
 
-- `empty string` with a position returns `position`
+- `empty string` with a position argument returns the `position`
 
