@@ -63,7 +63,7 @@ let message = 'stay present and create';
 - [`split()`](/string/str-split.md) 
 - [`startsWith()`](/string/str-starts-with.md)
 - [`substring()`](/string/substring.md) 
-- `lastIndexOf()`
+- [`lastIndexOf()`](/string/str-last-index.md)
 - `toLowerCase()`
 - `toUpperCase()`
 - `toString()` 
