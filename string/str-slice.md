@@ -22,14 +22,14 @@ ___
     - `"test".slice(-2)` >> `st`
     - 4 + (-2) = 2 (index 2 = s)
     - count backwards
-    <br>
+    
     - IF `beginIndex >= str.length`: `empty string` is returned `""`
 
 2. `OPTIONAL: endIndex`
 - indicates where to end extraction, character at this index is `not included`.
 
     - IF endIndex is `omitted`, `undefined`, `greater than length of string` or can't be converted into a number, endIndex defaults to length of string, it extracts to the end of the string.
-    <br>
+   
     - count backwards if `negative` and don't include character
 
 ___
