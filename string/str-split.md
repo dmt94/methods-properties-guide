@@ -27,15 +27,11 @@ ___
 
         - `['okay']`
 
-    <br>
-
       - IF separator is found at the beginning or end of the calling string, a split will still occur, but an empty string will appear at its beginning or ending position
 
         - [ '', 'peace', 'is', 'already', 'yours', '' ]
 
-    <br>
-
-     - IF separator is an empty string (''), the calling string is converted to an array of each of its UTF-16 "characters"
+      - IF separator is an empty string (''), the calling string is converted to an array of each of its UTF-16 "characters"
     
         - `'red'.split('')` >> `['r', 'e', 'd']`
 
