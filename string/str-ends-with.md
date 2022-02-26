@@ -19,9 +19,11 @@ ___
 
 #### Parameters
 
-`characters` to be searched for at the end of the calling string
+1. `characters` to be searched for at the end of the calling string
 
-optional `length` (integer) that indicates the end of search, character at this index is not included. Defaults to the array length if ommited.
+<br>
+
+2. `optional length` (integer) that indicates the end of search, character at this index is not included. Defaults to the array length if omitted.
 
 ```
 callStr.endsWith(characters);
@@ -38,3 +40,4 @@ console.log(str.endsWith('best'));  //false
 console.log(str.endsWith('st!'));   //true
 console.log(str.endsWith('Ca', 2)); //true
 ```
+last character is `!` in the calling string
