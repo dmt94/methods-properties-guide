@@ -38,12 +38,11 @@ ___
 
 #### Alternative:
 
-[`String.fromCharCode()`](/string/str-from-char.md)
-<br>
 
 ***(MDN Definition)***
 
-**String.fromCharCode( )** :
+
+[`String.fromCharCode()`](/string/str-from-char.md)
 
 **cannot** `return` supplementary characters (code points 0x010000 - 0x10FFFF) by specifying their **code points**. It requires the UTF-16 surrogate pair in order to return a supplementary character.
 

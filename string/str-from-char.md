@@ -33,10 +33,17 @@ ___
 
 #### Alternative:
 
-[`String.fromCodePoint()`](/string/str-from-code.md)
-<br>
 
 ***(MDN Definition)***
+
+
+[`String.fromCodePoint()`](/string/str-from-code.md)
+
+**can** `return` 4-byte supplementary characters, as well as 2-byte BMP characters, by specifying their `code point`, which is equivalent to the `UTF-32 code unit`
+
+```
+console.log(String.fromCodePoint(0x1F338));       // 🌸
+```
 
 **String.fromCharCode( )** :
 
@@ -47,11 +54,4 @@ console.log(String.fromCharCode(55356, 57091));    // 🌃
 console.log(String.fromCharCode(0xD83C, 0xDF03));  // 🌃
 ```
 
-**String.fromCodePoint()** :
-
-**can** `return` 4-byte supplementary characters, as well as 2-byte BMP characters, by specifying their `code point`, which is equivalent to the `UTF-32 code unit`
-
-```
-console.log(String.fromCodePoint(0x1F338));       // 🌸
-```
 
