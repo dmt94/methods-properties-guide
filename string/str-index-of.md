@@ -46,9 +46,9 @@ let sentence = 'No better time than the present.';
 
 let word = 'present';
 
-console.log(sentence.length);                 // 32
-console.log(sentence.indexOf('present', 47)); // -1
-console.log(sentence.indexOf('present'));     // 24
+console.log(sentence.length);                   // 32
+console.log(sentence.indexOf('present', 47));   // -1
+console.log(sentence.indexOf('present'));       // 24
 
 ```
 If the `position` indicated (representing the `index`) surpasses the location of the existing string, method will return `-1`.
