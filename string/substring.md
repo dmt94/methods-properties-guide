@@ -97,7 +97,9 @@ console.log(word.substring(0, undefined));          // 'determined' (undefined i
 console.log(word.substring(undefined, undefined));  // 'determined' (same as no argument)
 console.log(word.substring(undefined, 5));          // 'deter' 
 ```
-`undefined` for `firstIndex` defaults to `0`
-`undefined` for `indexEnd` defaults to `string.length`
+- `undefined` for `firstIndex` defaults to `0`
+
+
+- `undefined` for `indexEnd` defaults to `string.length`
 
 
