@@ -8,8 +8,9 @@ ___
 
 `split()` takes apart its string caller, dividing them into substrings, depending on the separator indicated in its argument. The `return` value is an array with each substring as an element.
 
-`strCaller.split('');`  splits into its UTF-16 "characters" 
-`strCaller.split(' ');` 
+- `strCaller.split('');`  splits into its UTF-16 "characters" 
+
+- `strCaller.split(' ');` splits strings using found `space` as a divider 
 
 ##### Return Value
 
