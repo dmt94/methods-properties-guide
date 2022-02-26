@@ -98,6 +98,6 @@ console.log(word.substring(undefined, undefined));  // 'determined' (same as no 
 console.log(word.substring(undefined, 5));          // 'deter' 
 ```
 `undefined` for `firstIndex` defaults to `0`
-`undefined` for `indexEmd` defaults to `string.length`
+`undefined` for `indexEnd` defaults to `string.length`
 
 
