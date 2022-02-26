@@ -19,9 +19,9 @@ ___
 - Zero-based index , where extraction is set to begin
 
     - IF `beginIndex is negative`: extraction begins at `strCaller.length + beginIndex`
-    - `"test".slice(-2)` >> `st`
-    - 4 + (-2) = 2 (index 2 = s)
-    - count backwards
+      - `"test".slice(-2)` >> `st`
+      - 4 + (-2) = 2 (index 2 = s)
+      - count backwards
     
     - IF `beginIndex >= str.length`: `empty string` is returned `""`
 
