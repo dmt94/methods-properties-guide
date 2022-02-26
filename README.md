@@ -64,13 +64,13 @@ let message = 'stay present and create';
 - [`startsWith()`](/string/str-starts-with.md)
 - [`substring()`](/string/substring.md) 
 - [`lastIndexOf()`](/string/str-last-index.md)
-- `toLowerCase()`
-- `toUpperCase()`
-- `toString()` 
-- `trim()` 
-- `trimEnd()`
-- `trimStart()`
-- `valueOf()` 
+- [`toLowerCase()`](/string/str-to-lower.md)
+- [`toUpperCase()`](/string/str-to-upper.md)
+- [`toString()`](/string/str-to-string.md)
+- [`trim()`](/string/str-trim.md) 
+- [`trimEnd()`](/string/str-trim-end.md)
+- [`trimStart()`](/string/str-trim-start.md)
+- [`valueOf()`](/string/str-value-of.md) 
 
 ## Arrays <a name="arrays"></a>
 
