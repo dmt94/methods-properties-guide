@@ -78,6 +78,8 @@ console.log(word.lastIndexOf('', 2));              // 2
 console.log(word.lastIndexOf('', 9));              // 9 
 ```
 - `empty string` as an argument returns the `length` of string caller
+
 <br>
+
 - `empty string` with a position returns `position`
 
