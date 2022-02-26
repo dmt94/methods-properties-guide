@@ -46,8 +46,8 @@ ___
 
     - IF limit is `0`, `[]` is returned
     `'move on'.split(' ', 0)` >> `[]`
-    <br>
-    - if there are less entries than the limit given, then all the possible entries will still be returned
+    
+    - IF there are less entries than the limit given, then all the possible entries will still be returned
 
 ___
 
