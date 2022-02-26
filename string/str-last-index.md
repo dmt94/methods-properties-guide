@@ -8,13 +8,15 @@ ___
 
 `lastIndexOf()` searches its string caller for the string in its argument, and returns the index of its **last occurence**
 
-`lastIndexOf(searchString)`
-`lastIndexOf(searchString, position)`
+- `lastIndexOf(searchString)`
+
+- `lastIndexOf(searchString, position)`
 
 ##### Return Value
 
-`index` of the last occurence of its argument string
-`-1` if argument string is not found
+- `index` of the last occurence of its argument string
+
+- `-1` if argument string is not found
 ___
 
 #### Parameters
