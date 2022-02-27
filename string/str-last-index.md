@@ -32,7 +32,7 @@ ___
     ```
 
 2. `OPTIONAL: position`
-- `integer` that specifies the `index` to end the search for the `searchString` in its argument.
+- `integer` that specifies the `index` to end the search for the `searchString` in its argument. Inclusive.
 
     <br>
 
@@ -78,6 +78,11 @@ console.log(word.lastIndexOf('J', undefined));     // 7 (position defaults to le
 console.log(word.lastIndexOf(''));                 // 17 = length of string 
 console.log(word.lastIndexOf('', 2));              // 2
 console.log(word.lastIndexOf('', 9));              // 9 
+
+console.log(word.lastIndexOf('y', 2));              // 2 (if end position is exact where character/string is found, returns index value)
+console.log(word.lastIndexOf('oy', 2));             // 1 (if string has more than one character, index of its first character is returned)
+console.log(word.lastIndexOf('Jav', 7));            // 7 (if string has more than one character, index of its first character is returned)
+
 ```
 - `empty string` as an argument returns the `length` of string caller
 
